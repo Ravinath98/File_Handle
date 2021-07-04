@@ -5,6 +5,7 @@ A text file with mathematical formulas is provided and the result of each
 formulas needed to be calculated using a C++ programme.
 
 I developed a C++ console programme according to the following guidelines:
+
 *Load the text file with mathematical formulas.
 
 *Read a single formula at a time.
